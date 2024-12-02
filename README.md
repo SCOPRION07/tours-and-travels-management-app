@@ -28,7 +28,7 @@ Payment functionality with transaction history stored in the database.
 
 1. Clone the repository.
 
-2. Import the Android app zip file (dbms_app_source.zip) into Android Studio.
+2. Import the Android app zip file (dbms_app.zip) into Android Studio.
   
 3. Import the SQL dump into MySQL Workbench.
  
