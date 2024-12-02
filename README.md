@@ -26,7 +26,7 @@ Payment functionality with transaction history stored in the database.
    
 **Steps to Set Up**
 
-1. Clone the repository.
+1. Clone the repository.(gh repo clone SCOPRION07/tours-and-travels-management-app)
 
 2. Import the Android app zip file (dbms_app.zip) into Android Studio.
   
