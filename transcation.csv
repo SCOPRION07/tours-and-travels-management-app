@@ -1,0 +1,12 @@
+User_id,Amount,Timestamp,Payment_method,Transaction_id,Status,Category
+1,150.75,02-09-2024 10:30,Credit Card,12345,Completed,Hotel Room Booking
+2,85.5,02-09-2024 11:15,PayPal,12346,Completed,Taxi Fare
+3,220,02-09-2024 12:00,Bank Transfer,12347,Completed,Travel Ticket
+4,50.25,02-09-2024 12:45,Debit Card,12348,Failed,Restaurant Bill
+5,75,02-09-2024 13:30,Credit Card,12349,Completed,Clothing
+6,200,02-09-2024 14:15,PayPal,12350,Completed,Decoration
+7,30,02-09-2024 15:00,Cash,12351,Completed,Books
+8,125.75,02-09-2024 15:45,Debit Card,12352,Pending,Visit Fare
+9,60,02-09-2024 16:30,Credit Card,12353,Completed,Refreshments
+10,45,02-09-2024 17:15,Bank Transfer,12354,Failed,Miscellaneous
+11,150,04-09-2024 13:30,UPI,12355,Completed,Taxi Fare

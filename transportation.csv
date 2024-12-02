@@ -1,0 +1,23 @@
+Transport_id,place_id,price,departure_time,arrival_time,pickup,dropoff,provider_name,available_seats
+1001,1,600,01-11-2024 08:00,01-11-2024 10:00,The Ritz-Carlton,Shaniwar Wada,MSRTC,30
+1002,2,750,02-11-2024 09:30,02-11-2024 12:00,Hilton Garden Inn,Aga Khan Palace,SRS Travels,25
+1003,3,500,03-11-2024 06:45,03-11-2024 09:15,Marriott Courtyard,Sinhagad Fort,Orange Travels,20
+1004,4,450,04-11-2024 08:00,04-11-2024 10:30,Hyatt Regency,Dagdusheth Halwai Ganapati Temple,VRL Travels,15
+1005,5,300,05-11-2024 07:00,05-11-2024 09:15,Taj Mahal Palace,Raja Dinkar Kelkar Museum,Neeta Travels,40
+1006,6,1200,06-11-2024 08:30,06-11-2024 11:45,Sheraton Grand,Kyoto Imperial,Keihan Express,18
+1007,7,900,07-11-2024 09:00,07-11-2024 11:00,JW Marriott,Statue of Liberty,Amtrak Buses,35
+1008,8,1100,08-11-2024 07:30,08-11-2024 10:30,Four Seasons Hotel,Grand Canyon,Grayline Tours,25
+1009,9,950,09-11-2024 06:45,09-11-2024 09:45,Holiday Inn Express,Mount Fuji,Shinkansen,20
+1010,10,450,10-11-2024 08:15,10-11-2024 10:45,Radisson Blu,Gateway of India,MSRTC,30
+1011,11,850,11-11-2024 09:00,11-11-2024 12:00,The Oberoi,Golden Gate Bridge,SRS Travels,25
+1012,12,720,12-11-2024 07:30,12-11-2024 10:30,Le Méridien,Akihabara,Keio Transport,20
+1013,13,800,13-11-2024 08:00,13-11-2024 10:30,Novotel Hotel,Mysore Palace,VRL Travels,40
+1014,14,600,14-11-2024 06:45,14-11-2024 09:15,Fairfield by Marriott,Yosemite National,Grayline Buses,20
+1015,15,900,15-11-2024 07:30,15-11-2024 10:30,Trident Hotel,Nara Park,Kansai Transport,25
+1016,16,450,16-11-2024 08:00,16-11-2024 11:00,ITC Grand Chola,Amer Fort,Rajasthan Tourism Buses,30
+1017,17,1200,17-11-2024 09:00,17-11-2024 12:00,The Westin,Yellowstone NP,Amtrak Buses,15
+1018,18,1300,18-11-2024 07:30,18-11-2024 11:00,Pullman Hotel,Hiroshima Peace,Hiroshima Transport,20
+1019,19,900,19-11-2024 08:15,19-11-2024 11:15,The Leela Palace,Kerala Backwaters,KSRTC Buses,30
+1020,20,1500,20-11-2024 09:30,20-11-2024 12:30,Aloft Hotel,Central Park,Grayline Buses,25
+1021,21,800,21-11-2024 07:45,21-11-2024 10:15,Sheraton Grand,Gion District,Keihan Express,18
+1022,22,700,22-11-2024 08:30,22-11-2024 11:00,Four Seasons Hotel,Hollywood,Grayline Tours,30
